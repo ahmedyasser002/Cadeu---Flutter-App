@@ -1,3 +1,2 @@
-# demo_project
-
+Cadeu App
 A new Flutter project.
